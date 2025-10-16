@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <nav className='flex bg-violet-700 justify-around h-[55px] items-center'>
-        <div className='text-white text-sm md:text-xl'>
+        <div className='text-white text-sm md:text-xl font-bold'>
             iTask
         </div>
       <ul className='flex md:gap-16 gap-3 list-none text-xl items-center'>
